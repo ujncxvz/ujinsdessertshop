@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    </head>
+    <style>
+        body { background-color: lightyellow;
+        text-align: center
+        ;}
+      </style>
+      <body> 
+        <h1
+          style="
+          background-color: pink;
+          color: purple;
+          border: 2px solid purple;
+          border-radius: 5px;
+          text-align: center;
+          margin-left: 20px;
+          margin-right: 20px;
+          "
+>
+🍰Dessert Shop🍪
+</h1>
+<img
+src="https://images.immediate.co.uk/production/volatile/sites/2/2019/07/Cheese-cake-V2-e6c08dd.jpg?quality=90&crop=15px,1211px,6149px,5585px&resize=556,505"
+alt="Cheese Cake Delicious"
+/>
+<p>
+    We Create
+    <span style="color: red; font-weight: bold;">beautiful</span>
+    ,
+    <span style="color: green; font-weight: bold;">creative</span>
+    ,
+    <span style="color: blue; font-weight: bold;">healthy</span>
+    desserts.
+</p>
+<hr/>
+
+<h1
+style="
+          background-color: pink;
+          color: purple;
+          border: 2px solid purple;
+          border-radius: 5px;
+          text-align: center;
+          margin-left: 20px;
+          margin-right: 20px;
+          "
+>
+What do you want? 
+</h1>
+<ul
+style="
+     border: 1px solid red;
+     border-radius: 5px;
+     text-align: center;
+     display: inline-block;
+     padding: 50px;
+     "
+     >
+     <li>
+        Cookies:
+        <b>$5.00</b>
+        each
+     </li>
+     <li>
+        Cakes & Pies:
+        <b>$5.00</b>
+        each
+     </li>
+     <li> 
+        Chocolate:
+        <b>$2.00</b>
+        each
+     </li>
+    </ul>
+    <br/>
+
+    <h1
+    style="
+          background-color: pink;
+          color: purple;
+          border: 2px solid purple;
+          border-radius: 5px;
+          text-align: center;
+          margin-left: 20px;
+          margin-right: 20px;
+          "
+    >
+     Opening Hours⏰
+</h1>
+<p
+  style="
+     border: 1px solid red;
+     border-radius: 5px;
+     text-align: center;
+     display: inline-block;
+     padding: 50px;
+     "
+>
+   🟢
+<b>Monday to Thursday:</b>
+7:45 a.m.- 9:45 p.m.
+</p>
+<p
+style="
+     border: 1px solid red;
+     border-radius: 5px;
+     text-align: center;
+     display: inline-block;
+     padding: 50px;
+     "
+>
+🟢
+<b>Friday:</b>
+7:45 a.m.- 16:30 p.m.
+</p>
+<p
+style="
+     border: 1px solid red;
+     border-radius: 5px;
+     text-align: center;
+     display: inline-block;
+     "
+>
+🟢
+<b>Saturday:</b>
+9:00 a.m.- 16:30 p.m.
+</p>
+<p
+style="
+     border: 1px solid red;
+     border-radius: 5px;
+     text-align: center;
+     display: inline-block;
+     "
+>
+🔴
+<b>Sunday:</b>
+noon - 12:30p.m.
+</p>
+<br/>
+
+<h1
+style="
+          background-color: pink;
+          color: purple;
+          border: 2px solid purple;
+          border-radius: 5px;
+          text-align: center;
+          margin-left: 20px;
+          margin-right: 20px;
+          margin-bottom: 200px;
+          "
+>
+    Payment Methods💳
+</h1>
+<p>We accept:</p>
+<ul
+   style="
+     border: 1px solid red;
+     border-radius: 5px;
+     text-align: center;
+     display: inline-block;
+     padding-top: 50px;
+     padding-bottom: 50px;
+     padding-left: 20px;
+     padding-right: 20px;
+     "
+>
+<li>💵 Cash</li>
+<li>🏧 ATM Cards</li>
+<li>💳 Credit Cards</li>
+<li>💎 American Express</li>
+<li>🌍 Discovery</li>
+</ul>
+
+<br/>
+<p>
+    📍
+    <a href="https://maps.google.com"> Find us on Google Maps!</a>
+</p>
+  </body>
+</html>
