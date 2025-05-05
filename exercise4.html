@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang=“en”>
+<head>
+    <meta charset=“UTF-8”>
+    <meta name=“viewport” content=“width=device-width, initial-scale=1.0”>
+    <title>exercisee4</title>
+</head>
+<style>
+    .dad{
+        display: flex;
+        flex-direction: row;;
+        gap: 10px;
+    }
+     .box{
+        width: 300px;
+        height:300px;
+        display: flex;
+        flex-direction: row;
+        background-color: blue;
+     }
+     .box1{
+        width: 300px;
+        height:300px;
+        display: flex;
+        flex-direction: row;
+        background-color: red;
+     }
+     .box2{
+        width: 300px;
+        height:300px;
+        display: flex;
+        flex-direction: row;
+        background-color: green
+     }
+     @media only screen and (max-width: 600px) {
+            .dad{
+                flex-direction: column ;
+            }}
+</style>
+<body>
+    <div class=“dad”>
+        <div class=“box”></div>
+    <div class=“box1”></div>
+    <div class=“box2”></div>
+    </div>
+</body>
+</html>
