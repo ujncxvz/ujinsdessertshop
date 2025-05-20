@@ -1,47 +1,47 @@
 <!DOCTYPE html>
-<html lang=“en”>
+<html lang="en">
 <head>
-    <meta charset=“UTF-8”>
-    <meta name=“viewport” content=“width=device-width, initial-scale=1.0”>
-    <title>exercisee4</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>exercise4</title>
 </head>
 <style>
-    .dad{
+    .container {
         display: flex;
         flex-direction: row;;
         gap: 10px;
     }
-     .box{
+     .box {
         width: 300px;
-        height:300px;
+        height: 300px;
         display: flex;
         flex-direction: row;
         background-color: blue;
      }
-     .box1{
+     .box1 {
         width: 300px;
-        height:300px;
+        height: 300px;
         display: flex;
         flex-direction: row;
         background-color: red;
      }
-     .box2{
+     .box2 {
         width: 300px;
         height:300px;
         display: flex;
         flex-direction: row;
-        background-color: green
+        background-color: green;
      }
      @media only screen and (max-width: 600px) {
-            .dad{
+            .container {
                 flex-direction: column ;
             }}
 </style>
 <body>
-    <div class=“dad”>
-        <div class=“box”></div>
-    <div class=“box1”></div>
-    <div class=“box2”></div>
+    <div class="container">
+        <div class="box"></div>
+        <div class="box1"></div>
+        <div class="box2"></div>
     </div>
 </body>
 </html>
